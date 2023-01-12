@@ -3,6 +3,7 @@
 ---
 ### Requisitos
 
+- [X] Pages
 - [X] Tokens
 - [X] Text
 - [X] Heading
