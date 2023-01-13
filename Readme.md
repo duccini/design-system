@@ -1,16 +1,19 @@
-## Duccini Ignite Design System
+![My Image](design-system.png)
+
+# Duccini Ignite Design System
+
+### _Rocketseat React Course's Project_
 
 ---
-### Requisitos
 
-- [X] Pages
-- [X] Tokens
-- [X] Text
-- [X] Heading
-- [X] MultiStep
-- [X] Box
-- [X] Button
-- [X] TextArea
-- [X] TextInput
-- [X] Checkbox
-- [X] Avatar
+[See Online](https://duccini.github.io/design-system/?path=/story/home--page)
+
+---
+
+## Key Concepts Learned
+
+- Monorepo
+- Build a Design System with Storybook
+- Build NPM packages
+- CI / CD Github
+- Github Actions
